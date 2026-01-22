@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there 👋, my name is Adi Pawar
+
+I’m a junior undergraduate student majoring in Computer Science and minoring in Economics at the Georgia State University Honors College.
+
+I’m highly motivated and focused on **AI, Machine Learning, Generative AI, Full-Stack Web Development, and Data Science**. I have hands-on experience with **Python, JavaScript, React.js, SQL**, and cloud technologies, and I enjoy building projects that combine strong technical foundations with real-world impact.
+
+Beyond tech, I’m interested in **entrepreneurship and business strategy**, particularly how technology can drive scalable solutions. In my free time, I enjoy playing outdoor sports like badminton, soccer, and basketball, going to the gym, and hiking.
+
 
 <!--
 **adipawar10/adipawar10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
